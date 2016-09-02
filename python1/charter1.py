@@ -1,2 +1,2 @@
-abs(2)
-ㅇ
+import
+import (name,calu)
